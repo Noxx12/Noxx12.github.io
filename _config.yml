@@ -4,7 +4,7 @@ email: Kelly.Perez2@snhu.edu
 description: > # this means to ignore newlines until "baseurl:"
   CS 499 ePortfolio
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
-url: "http://Noxx12.github.io" # the base hostname & protocol for your site
+url: "https://Noxx12.github.io" # the base hostname & protocol for your site
 github_username:  Noxx12
 
 

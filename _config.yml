@@ -1,19 +1,13 @@
 # Site settings
-title: Emping
+title: Kelly Perez
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Let's Eat!!.
+  CS 499 ePortfolio
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
-url: "http://example.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-GoogleAnalytics: UA-xxxxxx-x
+url: "http://Noxx12.github.io" # the base hostname & protocol for your site
+github_username:  Noxx12
 
-twitter:
-  username: rmsubekti
-facebook:
-  app_id: 1234567
-  publisher: 1234567
+
 
 sass:
     style: compressed

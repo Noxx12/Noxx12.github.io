@@ -54,8 +54,8 @@ I selected this artifact because of its intricate equations in C++ and my desire
 **Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/master/Narratives/Milestone%20Two%20Narrative%20Kelly%20Perez.docx)
 
 **Click here to view the code**
-  - [Original Code](https://github.com/Noxx12/Noxx12.github.io/blob/main/CS-499%20Software%20Engineering%20and%20Design/BankingApp.sln)
-  - [Final Code](https://github.com/Noxx12/Noxx12.github.io/blob/main/CS-499%20Software%20Engineering%20and%20Design/BankApp.py)
+  - [Banking Simulator Original Code](https://github.com/Noxx12/Noxx12.github.io/blob/main/CS-499%20Software%20Engineering%20and%20Design/BankingApp.sln)
+  - [Banking Simulator Final Code](https://github.com/Noxx12/Noxx12.github.io/blob/main/CS-499%20Software%20Engineering%20and%20Design/BankApp.py)
 
   ## Conclusion:
 

@@ -51,5 +51,5 @@ The artifact I have chosen for Enhancement One: Software Design and Engineering 
 
 I selected this artifact because of its intricate equations in C++ and my desire to expand my knowledge and boundaries by converting it to Python. I have only taken one Python course during my time at SNHU. I believed that this conversion would serve as a measure of my proficiency in a coding language that I had only been exposed to for eight weeks. 
 
-**Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/main/Narratives/Milestone%20Two%20Narrative%20Kelly%20Perez.docx)
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/master/Narratives/Milestone%20Two%20Narrative%20Kelly%20Perez.docx)
 

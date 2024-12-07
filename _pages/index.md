@@ -91,7 +91,7 @@ The artifact for Enhancement Three: Databases is a Contact Management System tha
 
 The Contact Management System's scalability, data persistence, and query capabilities were significantly enhanced by the transition from a HashMap to a SQL database. Although the HashMap offered in-memory storage that was suitable for basic, temporary data handling, it lacked permanence and advanced retrieval options. The system now supports comprehensive data storage, ensuring that information is securely maintained across sessions, as a result of the integration of a SQL database. Furthermore, SQL enables the efficient manipulation and retrieval of larger datasets by facilitating the creation of complex queries and relationships. This improvement ensures that the system is consistent with the standards of real-world applications, thereby increasing its adaptability and dependability.
 
-**Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/main/Narratives/Milestone%20Four%20Narrative%20Kelly%20Perez.docx)
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/master/Narratives/Milestone%20Four%20Narrative%20Kelly%20Perez.docx)
 
   - [Contact Original Code](https://github.com/Noxx12/Noxx12.github.io/tree/master/Databases/ContactOriginal)
   - [Contact Final Code](https://github.com/Noxx12/Noxx12.github.io/tree/master/Databases/ContactEnhanced/M3)

@@ -3,7 +3,7 @@ layout: default
 avatar: true
 permalink: /
 ---
-# **Profession Assessment**
+# **Professional Assessment**
 	
 The completion of my coursework in the Computer Science program and the creation of this ePortfolio have been transformative experiences that have influenced my professional aspirations and equipped me with the necessary skills to enter the competitive field of computer science. This ePortfolio is intended to demonstrate my technical proficiency, problem-solving abilities, and capacity to provide scalable, well-organized solutions. I have refined the skills required to make a meaningful contribution to any team or project by engaging in a combination of coursework, collaboration, and hands-on projects.
 

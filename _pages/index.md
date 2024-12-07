@@ -76,7 +76,7 @@ I incorporated a modular function that computes the shortest paths from a source
 **Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/main/Narratives/Milestone%20Four%20Narrative%20Kelly%20Perez.docx)
 
   - [Triangle Original Code](https://github.com/Noxx12/Noxx12.github.io/blob/e2a3c8f2576e7b4980141ea975c065101c35d828/CS-499%20Algorithms%20and%20Data%20Structures/TriangleOriginal.cpp)
-  - [Triangle Final Code](https://github.com/Noxx12/Noxx12.github.io/blob/masterain/CS-499%20Algorithms%20and%20Data%20Structures/Triangle.cpp)
+  - [Triangle Final Code](https://github.com/Noxx12/Noxx12.github.io/blob/master/CS-499%20Algorithms%20and%20Data%20Structures/Triangle.cpp)
 
 *Conclusion:*
 

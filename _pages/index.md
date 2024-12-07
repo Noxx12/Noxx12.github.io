@@ -21,7 +21,7 @@ I have experience in the design of scalable applications and the management of r
 ---
 
 
-Course Outcomes
+*Course Outcomes*
 
 In my ePortfolio, I demonstrate a portion of my skills and knowledge in my artifacts and narratives, which include the following outcomes:
 
@@ -35,8 +35,8 @@ iiii. Cultivate a security mindset that anticipates adversarial exploits in soft
 
 ---
 
-# Informal Code Review
-Overview:
+# **Informal Code Review**
+*Overview:*
 
 All three artifacts are included in my code review video. I conduct an individual analysis of each artifact to identify vulnerabilities, errors, and weaknesses. During the tour of each artifact, I provide a narrative that outlines my intentions for enhancements and improvements. I navigated through my C++ code in Visual Studio in the context of software design and engineering, providing an explanation of the process of converting it to Python. I discussed any potential enhancements to the original coding that could have been implemented. I once again employed Visual Studio to guide me through the C++ coding of the 2D triangle in my original artifact for algorithms and data structures. Identifying all beneficial coding blocks and shortcomings. Finally, I reviewed my Java coding in Eclipse for Databases, ensuring that I identified any coding or best practices weaknesses that I encountered. I also provided an explanation of the transition from hashmaps to a SQL database to ensure its permanence. 
 
@@ -45,7 +45,7 @@ All three artifacts are included in my code review video. I conduct an individua
 ---
 
 # Artifact 1 Software Engineering and Design
-Introduction:
+*Introduction:*
 
 The artifact I have chosen for Enhancement One: Software Design and Engineering is a banking simulator application that was initially developed in C++. The program will calculate compounded interest for a specified number of years, regardless of whether monthly deposits are made.
 
@@ -57,14 +57,14 @@ I selected this artifact because of its intricate equations in C++ and my desire
   - [Banking Simulator Original Code](https://github.com/Noxx12/Noxx12.github.io/blob/main/CS-499%20Software%20Engineering%20and%20Design/BankingApp.sln)
   - [Banking Simulator Final Code](https://github.com/Noxx12/Noxx12.github.io/blob/main/CS-499%20Software%20Engineering%20and%20Design/BankApp.py)
 
- Conclusion:
+ *Conclusion:*
 
 The transition from C++ to Python involved adapting the code to Python's simpler syntax, dynamic typing, and modern programming conventions. Variable declarations were moved into an __init__() constructor for better encapsulation, replacing C++'s explicit type declarations. Input handling shifted from cin to Python’s input() with added error handling via try-except blocks, ensuring robust user interaction. Output formatting was simplified using Python’s f-strings instead of fixed and setprecision. Loops were streamlined with Python’s range() function, and repetitive logic in interest calculations was refactored into reusable helper methods, improving maintainability. The main execution flow used Python's if __name__ == "__main__": standard, making the program modular and portable. These changes enhanced readability, modularity, and robustness, showcasing Python’s efficiency and flexibility.
 
 ---
 
 # Artifact 2 Algorithms and Data Structures
-Introduction:
+*Introduction:*
 
 
 
@@ -78,14 +78,14 @@ I incorporated a modular function that computes the shortest paths from a source
   - [Triangle Original Code](https://github.com/Noxx12/Noxx12.github.io/blob/e2a3c8f2576e7b4980141ea975c065101c35d828/CS-499%20Algorithms%20and%20Data%20Structures/TriangleOriginal.cpp)
   - [Triangle Final Code](https://github.com/Noxx12/Noxx12.github.io/blob/main/CS-499%20Algorithms%20and%20Data%20Structures/Triangle.cpp)
 
-Conclusion:
+*Conclusion:*
 
 In summary, the integration of Dijkstra's Algorithm into the current OpenGL program underscores the equilibrium between computational problem-solving and graphical representation, illustrating the ability to combine algorithms with visual output. This project demonstrates my proficiency in the development of well-structured, adaptable, and efficient software solutions, as well as my understanding of advanced data structures, algorithm optimization, and modular coding practices. This integration is a testament to my ability to address intricate challenges in real-world applications and my proficiency in computer science. My code enhancements and this narrative align with this course outcome. It demonstrates my ability to apply algorithmic principles, adhere to computer science practices, and manage trade-offs in my design choices, showcasing an understanding of said concepts.
 
 ---
 
 # Artifact 3 Databases
-Introduction:
+*Introduction:*
 
 The artifact for Enhancement Three: Databases is a Contact Management System that is intended to manage critical operations, including the addition, updating, retrieval, and deletion of contact information. It illustrates the foundational principles of software development, such as database integration, data validation, and object-oriented programming. The system is constructed with a focus on maintainability and scalability, utilizing clean code practices and robust error management. This project demonstrates the ability to create secure and efficient software solutions while adhering to the most effective design and implementation practices.
 
@@ -96,7 +96,7 @@ The Contact Management System's scalability, data persistence, and query capabil
   - [Contact Original Code](https://github.com/Noxx12/Noxx12.github.io/tree/main/CS-499%20Databases/Contact%20Original)
   - [Contact Final Code](https://github.com/Noxx12/Noxx12.github.io/tree/main/CS-499%20Databases/Contact%20Enhanced)
 
-Conclusion:
+*Conclusion:*
 
 The Contact Management System artifact is a testament to my software development expertise, demonstrating my capacity to develop, implement, and improve functional applications. The artifact demonstrates my dedication to the development of scalable and maintainable systems by incorporating SQL for robust data storage and administration, in addition to secure coding practices. This assignment emphasizes my ability to adhere to industry best practices and demonstrate my proficiency in object-oriented programming, database interaction, and system validation. In conclusion, this artifact not only exemplifies my technical proficiency but also emphasizes my preparedness to confront real-world challenges in the field of computer science.
 

@@ -73,7 +73,7 @@ The artifact I have chosen for Enhancement Two: Algorithms and Data Structure is
 I incorporated a modular function that computes the shortest paths from a source node to all other nodes in a weighted graph, which is represented as an adjacency list, in order to implement Dijkstra's Algorithm. This function employs a priority queue to efficiently retrieve and process the node with the minimum distance, updating the distances and predecessors of its neighbors as necessary. Furthermore, I incorporated a sample graph into the code to illustrate the algorithm's functionality. The modifications guarantee that the algorithm functions independently of the OpenGL rendering process, thereby preserving the original graphical output and incorporating a computationally significant algorithm. This modular approach improves the program by integrating advanced algorithm implementation with visual rendering, thereby showcasing both computational and graphical proficiency.
 
 
-**Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/main/Narratives/Milestone%20Four%20Narrative%20Kelly%20Perez.docx)
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/master/Narratives/Milestone%20Three%20Narrative%20Kelly%20Perez.docx)
 
   - [Triangle Original Code](https://github.com/Noxx12/Noxx12.github.io/blob/master/Algorithms%20and%20Data%20Structures/TriangleOriginal.cpp)
   - [Triangle Final Code](https://github.com/Noxx12/Noxx12.github.io/blob/master/Algorithms%20and%20Data%20Structures/Triangle.cpp)

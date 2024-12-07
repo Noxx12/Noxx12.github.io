@@ -73,7 +73,7 @@ The artifact I have chosen for Enhancement Two: Algorithms and Data Structure is
 I incorporated a modular function that computes the shortest paths from a source node to all other nodes in a weighted graph, which is represented as an adjacency list, in order to implement Dijkstra's Algorithm. This function employs a priority queue to efficiently retrieve and process the node with the minimum distance, updating the distances and predecessors of its neighbors as necessary. Furthermore, I incorporated a sample graph into the code to illustrate the algorithm's functionality. The modifications guarantee that the algorithm functions independently of the OpenGL rendering process, thereby preserving the original graphical output and incorporating a computationally significant algorithm. This modular approach improves the program by integrating advanced algorithm implementation with visual rendering, thereby showcasing both computational and graphical proficiency.
 
 
-**Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/master/Narratives/Milestone%20Three%20Narrative%20Kelly%20Perez.docx)
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/84dee813ae45ae82576cc479400f1233b93af9ac/Narratives/Milestone%20Three%20Narrative%20Kelly%20Perez.docx)
 
   - [Triangle Original Code](https://github.com/Noxx12/Noxx12.github.io/blob/master/Algorithms%20and%20Data%20Structures/TriangleOriginal.cpp)
   - [Triangle Final Code](https://github.com/Noxx12/Noxx12.github.io/blob/master/Algorithms%20and%20Data%20Structures/Triangle.cpp)
@@ -91,7 +91,7 @@ The artifact for Enhancement Three: Databases is a Contact Management System tha
 
 The Contact Management System's scalability, data persistence, and query capabilities were significantly enhanced by the transition from a HashMap to a SQL database. Although the HashMap offered in-memory storage that was suitable for basic, temporary data handling, it lacked permanence and advanced retrieval options. The system now supports comprehensive data storage, ensuring that information is securely maintained across sessions, as a result of the integration of a SQL database. Furthermore, SQL enables the efficient manipulation and retrieval of larger datasets by facilitating the creation of complex queries and relationships. This improvement ensures that the system is consistent with the standards of real-world applications, thereby increasing its adaptability and dependability.
 
-**Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/master/Narratives/Milestone%20Four%20Narrative%20Kelly%20Perez.docx)
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/84dee813ae45ae82576cc479400f1233b93af9ac/Narratives/Milestone%20Four%20Narrative%20Kelly%20Perez.docx)
 
   - [Contact Original Code](https://github.com/Noxx12/Noxx12.github.io/tree/master/Databases/ContactOriginal)
   - [Contact Final Code](https://github.com/Noxx12/Noxx12.github.io/tree/master/Databases/ContactEnhanced/M3)

@@ -59,4 +59,29 @@ I selected this artifact because of its intricate equations in C++ and my desire
 
  Conclusion:
 
-The Contact Management System artifact is a testament to my software development expertise, demonstrating my capacity to develop, implement, and improve functional applications. The artifact demonstrates my dedication to the development of scalable and maintainable systems by incorporating SQL for robust data storage and administration, in addition to secure coding practices. This assignment emphasizes my ability to adhere to industry best practices and demonstrate my proficiency in object-oriented programming, database interaction, and system validation. In conclusion, this artifact not only exemplifies my technical proficiency but also emphasizes my preparedness to confront real-world challenges in the field of computer science.
+The transition from C++ to Python involved adapting the code to Python's simpler syntax, dynamic typing, and modern programming conventions. Variable declarations were moved into an __init__() constructor for better encapsulation, replacing C++'s explicit type declarations. Input handling shifted from cin to Python’s input() with added error handling via try-except blocks, ensuring robust user interaction. Output formatting was simplified using Python’s f-strings instead of fixed and setprecision. Loops were streamlined with Python’s range() function, and repetitive logic in interest calculations was refactored into reusable helper methods, improving maintainability. The main execution flow used Python's if __name__ == "__main__": standard, making the program modular and portable. These changes enhanced readability, modularity, and robustness, showcasing Python’s efficiency and flexibility.
+
+---
+
+## Artifact 2 Algorithms and Data Structures
+Introduction:
+
+
+
+The artifact I have chosen for Enhancement Two: Algorithms and Data Structure is a 2D representation of a triangle that was originally developed in OpenGL and C++. I developed this program during my time in CS 330 and believed that it would be advantageous for the implementation of Dijkstra's Algorithm.
+
+I incorporated a modular function that computes the shortest paths from a source node to all other nodes in a weighted graph, which is represented as an adjacency list, in order to implement Dijkstra's Algorithm. This function employs a priority queue to efficiently retrieve and process the node with the minimum distance, updating the distances and predecessors of its neighbors as necessary. Furthermore, I incorporated a sample graph into the code to illustrate the algorithm's functionality. The modifications guarantee that the algorithm functions independently of the OpenGL rendering process, thereby preserving the original graphical output and incorporating a computationally significant algorithm. This modular approach improves the program by integrating advanced algorithm implementation with visual rendering, thereby showcasing both computational and graphical proficiency.
+
+
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/main/Narratives/Milestone%20Four%20Narrative%20Kelly%20Perez.docx)
+
+  - [Triangle Original Code](https://github.com/Noxx12/Noxx12.github.io/blob/e2a3c8f2576e7b4980141ea975c065101c35d828/CS-499%20Algorithms%20and%20Data%20Structures/TriangleOriginal.cpp)
+  - [Triangle Final Code](https://github.com/Noxx12/Noxx12.github.io/blob/main/CS-499%20Algorithms%20and%20Data%20Structures/Triangle.cpp)
+
+Conclusion:
+
+In summary, the integration of Dijkstra's Algorithm into the current OpenGL program underscores the equilibrium between computational problem-solving and graphical representation, illustrating the ability to combine algorithms with visual output. This project demonstrates my proficiency in the development of well-structured, adaptable, and efficient software solutions, as well as my understanding of advanced data structures, algorithm optimization, and modular coding practices. This integration is a testament to my ability to address intricate challenges in real-world applications and my proficiency in computer science.
+
+---
+
+

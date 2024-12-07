@@ -3,7 +3,7 @@ layout: default
 avatar: true
 permalink: /
 ---
-## **Profession Assessment**
+# **Profession Assessment**
 	
 The completion of my coursework in the Computer Science program and the creation of this ePortfolio have been transformative experiences that have influenced my professional aspirations and equipped me with the necessary skills to enter the competitive field of computer science. This ePortfolio is intended to demonstrate my technical proficiency, problem-solving abilities, and capacity to provide scalable, well-organized solutions. I have refined the skills required to make a meaningful contribution to any team or project by engaging in a combination of coursework, collaboration, and hands-on projects.
 
@@ -21,7 +21,7 @@ I have experience in the design of scalable applications and the management of r
 ---
 
 
-## Course Outcomes
+Course Outcomes
 
 In my ePortfolio, I demonstrate a portion of my skills and knowledge in my artifacts and narratives, which include the following outcomes:
 
@@ -44,7 +44,7 @@ All three artifacts are included in my code review video. I conduct an individua
 
 ---
 
-## Artifact 1 Software Engineering and Design
+# Artifact 1 Software Engineering and Design
 Introduction:
 
 The artifact I have chosen for Enhancement One: Software Design and Engineering is a banking simulator application that was initially developed in C++. The program will calculate compounded interest for a specified number of years, regardless of whether monthly deposits are made.
@@ -63,7 +63,7 @@ The transition from C++ to Python involved adapting the code to Python's simpler
 
 ---
 
-## Artifact 2 Algorithms and Data Structures
+# Artifact 2 Algorithms and Data Structures
 Introduction:
 
 

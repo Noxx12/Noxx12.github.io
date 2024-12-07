@@ -20,5 +20,24 @@ I have experience in the design of scalable applications and the management of r
 
 ---
 
-## 🅿️ Edit This Page
-You’ll find this page in your `_pages` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+## Course Outcomes
+
+In my ePortfolio, I demonstrate a portion of my skills and knowledge in my artifacts and narratives, which include the following outcomes:
+
+i. Implement strategies to establish collaborative environments that permit disparate audiences to contribute to the decision-making process of organizations in the field of computer science. Develop, produce, and distribute professional-grade oral, written, and visual communications that are technically sound, coherent, and appropriately tailored to specific audiences and contexts.
+
+ii.  Manage the trade-offs involved in design choices while designing and evaluating computing solutions that solve a given problem using algorithmic principles and computer science practices and standards that are appropriate to its solution.
+
+iii. Demonstrate the capacity to employ well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and achieve industry-specific objectives.
+
+iiii. Cultivate a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design defects, and ensure the privacy and enhanced security of data and resources.
+
+---
+
+# Informal Code Review
+Overview:
+
+All three artifacts are included in my code review video. I conduct an individual analysis of each artifact to identify vulnerabilities, errors, and weaknesses. During the tour of each artifact, I provide a narrative that outlines my intentions for enhancements and improvements. I navigated through my C++ code in Visual Studio in the context of software design and engineering, providing an explanation of the process of converting it to Python. I discussed any potential enhancements to the original coding that could have been implemented. I once again employed Visual Studio to guide me through the C++ coding of the 2D triangle in my original artifact for algorithms and data structures. Identifying all beneficial coding blocks and shortcomings. Finally, I reviewed my Java coding in Eclipse for Databases, ensuring that I identified any coding or best practices weaknesses that I encountered. I also provided an explanation of the transition from hashmaps to a SQL database to ensure its permanence. 
+
+<iframe align="center" width="900" height="480" src="https://www.youtube.com/embed/fNH1juXYmHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

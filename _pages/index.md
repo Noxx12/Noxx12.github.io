@@ -41,3 +41,15 @@ Overview:
 All three artifacts are included in my code review video. I conduct an individual analysis of each artifact to identify vulnerabilities, errors, and weaknesses. During the tour of each artifact, I provide a narrative that outlines my intentions for enhancements and improvements. I navigated through my C++ code in Visual Studio in the context of software design and engineering, providing an explanation of the process of converting it to Python. I discussed any potential enhancements to the original coding that could have been implemented. I once again employed Visual Studio to guide me through the C++ coding of the 2D triangle in my original artifact for algorithms and data structures. Identifying all beneficial coding blocks and shortcomings. Finally, I reviewed my Java coding in Eclipse for Databases, ensuring that I identified any coding or best practices weaknesses that I encountered. I also provided an explanation of the transition from hashmaps to a SQL database to ensure its permanence. 
 
 <iframe align="center" width="900" height="480" src="https://www.youtube.com/embed/fNH1juXYmHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+## Artifact 1 Software Engineering and Design
+Introduction:
+
+The artifact I have chosen for Enhancement One: Software Design and Engineering is a banking simulator application that was initially developed in C++. The program will calculate compounded interest for a specified number of years, regardless of whether monthly deposits are made.
+
+I selected this artifact because of its intricate equations in C++ and my desire to expand my knowledge and boundaries by converting it to Python. I have only taken one Python course during my time at SNHU. I believed that this conversion would serve as a measure of my proficiency in a coding language that I had only been exposed to for eight weeks. 
+
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/main/Narratives/Milestone%20Two%20Narrative%20Kelly%20Perez.docx)
+

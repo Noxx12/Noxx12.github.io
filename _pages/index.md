@@ -54,8 +54,8 @@ I selected this artifact because of its intricate equations in C++ and my desire
 **Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/master/Narratives/Milestone%20Two%20Narrative%20Kelly%20Perez.docx)
 
 **Click here to view the code**
-  - [Banking Simulator Original Code](https://github.com/Noxx12/Noxx12.github.io/blob/master/CS-499%20Software%20Engineering%20and%20Design/BankingApp.sln)
-  - [Banking Simulator Final Code](https://github.com/Noxx12/Noxx12.github.io/blob/master/CS-499%20Software%20Engineering%20and%20Design/BankApp.py)
+  - [Banking Simulator Original Code](https://github.com/Noxx12/Noxx12.github.io/blob/master/Software%20Engineering%20and%20Design/BankingApp.sln)
+  - [Banking Simulator Final Code](https://github.com/Noxx12/Noxx12.github.io/blob/master/Software%20Engineering%20and%20Design/BankApp.py)
 
  *Conclusion:*
 
@@ -75,8 +75,8 @@ I incorporated a modular function that computes the shortest paths from a source
 
 **Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/main/Narratives/Milestone%20Four%20Narrative%20Kelly%20Perez.docx)
 
-  - [Triangle Original Code](https://github.com/Noxx12/Noxx12.github.io/blob/e2a3c8f2576e7b4980141ea975c065101c35d828/CS-499%20Algorithms%20and%20Data%20Structures/TriangleOriginal.cpp)
-  - [Triangle Final Code](https://github.com/Noxx12/Noxx12.github.io/blob/master/CS-499%20Algorithms%20and%20Data%20Structures/Triangle.cpp)
+  - [Triangle Original Code](https://github.com/Noxx12/Noxx12.github.io/blob/master/Algorithms%20and%20Data%20Structures/TriangleOriginal.cpp)
+  - [Triangle Final Code](https://github.com/Noxx12/Noxx12.github.io/blob/master/Algorithms%20and%20Data%20Structures/Triangle.cpp)
 
 *Conclusion:*
 
@@ -93,8 +93,8 @@ The Contact Management System's scalability, data persistence, and query capabil
 
 **Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/main/Narratives/Milestone%20Four%20Narrative%20Kelly%20Perez.docx)
 
-  - [Contact Original Code](https://github.com/Noxx12/Noxx12.github.io/tree/master/CS-499%20Databases/Contact%20Original)
-  - [Contact Final Code](https://github.com/Noxx12/Noxx12.github.io/tree/master/CS-499%20Databases/Contact%20Enhanced)
+  - [Contact Original Code](https://github.com/Noxx12/Noxx12.github.io/tree/master/Databases/ContactOriginal)
+  - [Contact Final Code](https://github.com/Noxx12/Noxx12.github.io/tree/master/Databases/ContactEnhanced/M3)
 
 *Conclusion:*
 

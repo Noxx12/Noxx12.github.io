@@ -57,6 +57,6 @@ I selected this artifact because of its intricate equations in C++ and my desire
   - [Banking Simulator Original Code](https://github.com/Noxx12/Noxx12.github.io/blob/main/CS-499%20Software%20Engineering%20and%20Design/BankingApp.sln)
   - [Banking Simulator Final Code](https://github.com/Noxx12/Noxx12.github.io/blob/main/CS-499%20Software%20Engineering%20and%20Design/BankApp.py)
 
-  ## Conclusion:
+ Conclusion:
 
 The Contact Management System artifact is a testament to my software development expertise, demonstrating my capacity to develop, implement, and improve functional applications. The artifact demonstrates my dedication to the development of scalable and maintainable systems by incorporating SQL for robust data storage and administration, in addition to secure coding practices. This assignment emphasizes my ability to adhere to industry best practices and demonstrate my proficiency in object-oriented programming, database interaction, and system validation. In conclusion, this artifact not only exemplifies my technical proficiency but also emphasizes my preparedness to confront real-world challenges in the field of computer science.

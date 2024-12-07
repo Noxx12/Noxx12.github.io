@@ -80,8 +80,24 @@ I incorporated a modular function that computes the shortest paths from a source
 
 Conclusion:
 
-In summary, the integration of Dijkstra's Algorithm into the current OpenGL program underscores the equilibrium between computational problem-solving and graphical representation, illustrating the ability to combine algorithms with visual output. This project demonstrates my proficiency in the development of well-structured, adaptable, and efficient software solutions, as well as my understanding of advanced data structures, algorithm optimization, and modular coding practices. This integration is a testament to my ability to address intricate challenges in real-world applications and my proficiency in computer science.
+In summary, the integration of Dijkstra's Algorithm into the current OpenGL program underscores the equilibrium between computational problem-solving and graphical representation, illustrating the ability to combine algorithms with visual output. This project demonstrates my proficiency in the development of well-structured, adaptable, and efficient software solutions, as well as my understanding of advanced data structures, algorithm optimization, and modular coding practices. This integration is a testament to my ability to address intricate challenges in real-world applications and my proficiency in computer science. My code enhancements and this narrative align with this course outcome. It demonstrates my ability to apply algorithmic principles, adhere to computer science practices, and manage trade-offs in my design choices, showcasing an understanding of said concepts.
 
 ---
+
+# Artifact 3 Databases
+Introduction:
+
+The artifact for Enhancement Three: Databases is a Contact Management System that is intended to manage critical operations, including the addition, updating, retrieval, and deletion of contact information. It illustrates the foundational principles of software development, such as database integration, data validation, and object-oriented programming. The system is constructed with a focus on maintainability and scalability, utilizing clean code practices and robust error management. This project demonstrates the ability to create secure and efficient software solutions while adhering to the most effective design and implementation practices.
+
+The Contact Management System's scalability, data persistence, and query capabilities were significantly enhanced by the transition from a HashMap to a SQL database. Although the HashMap offered in-memory storage that was suitable for basic, temporary data handling, it lacked permanence and advanced retrieval options. The system now supports comprehensive data storage, ensuring that information is securely maintained across sessions, as a result of the integration of a SQL database. Furthermore, SQL enables the efficient manipulation and retrieval of larger datasets by facilitating the creation of complex queries and relationships. This improvement ensures that the system is consistent with the standards of real-world applications, thereby increasing its adaptability and dependability.
+
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/Noxx12/Noxx12.github.io/blob/main/Narratives/Milestone%20Four%20Narrative%20Kelly%20Perez.docx)
+
+  - [Contact Original Code](https://github.com/Noxx12/Noxx12.github.io/tree/main/CS-499%20Databases/Contact%20Original)
+  - [Contact Final Code](https://github.com/Noxx12/Noxx12.github.io/tree/main/CS-499%20Databases/Contact%20Enhanced)
+
+Conclusion:
+
+The Contact Management System artifact is a testament to my software development expertise, demonstrating my capacity to develop, implement, and improve functional applications. The artifact demonstrates my dedication to the development of scalable and maintainable systems by incorporating SQL for robust data storage and administration, in addition to secure coding practices. This assignment emphasizes my ability to adhere to industry best practices and demonstrate my proficiency in object-oriented programming, database interaction, and system validation. In conclusion, this artifact not only exemplifies my technical proficiency but also emphasizes my preparedness to confront real-world challenges in the field of computer science.
 
 

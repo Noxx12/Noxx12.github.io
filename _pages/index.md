@@ -21,7 +21,7 @@ I have experience in the design of scalable applications and the management of r
 ---
 
 
-**Course Outcomes**
+# **Course Outcomes**
 
 In my ePortfolio, I demonstrate a portion of my skills and knowledge in my artifacts and narratives, which include the following outcomes:
 
